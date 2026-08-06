@@ -36,21 +36,88 @@ Les outils de karaoké existants forcent un choix : **Smule** mise tout sur le d
 
 ## Fonctionnalités
 
-**Créer**
-- Import multi-source — fichier local (audio/vidéo) ou recherche/import YouTube direct.
-- Séparation vocale / instrumentale par intelligence artificielle.
-- Transcription et synchronisation automatique des paroles, mot à mot.
-- Génération de vidéos karaoké avec fond personnalisable.
+### Créer
 
-**S'entraîner**
-- Trois modes dédiés : apprentissage guidé, répétition, modulation vocale.
-- Lecteur interactif avec suivi en temps réel des paroles.
-- Bibliothèque personnelle — historique et progression conservés.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Rivaliser & partager**
-- Mode compétition : défi entre utilisateurs sur un même morceau, enregistrement et classement.
-- Comptes utilisateurs, système de crédits et abonnements (Stripe).
-- Traitement asynchrone multi-utilisateurs — plusieurs personnes traitent leurs fichiers en parallèle sans se bloquer.
+**📥 Import multi-source**
+Fichier local (audio/vidéo) ou recherche/import YouTube direct.
+
+</td>
+<td width="50%" valign="top">
+
+**🎚️ Séparation vocale / instrumentale**
+Isolation voix / musique par intelligence artificielle.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📝 Paroles synchronisées**
+Transcription et alignement automatique, mot à mot.
+
+</td>
+<td width="50%" valign="top">
+
+**🎬 Vidéos karaoké**
+Génération automatique, avec fond personnalisable.
+
+</td>
+</tr>
+</table>
+
+### S'entraîner
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🎯 Trois modes d'entraînement**
+Apprentissage guidé, répétition, modulation vocale.
+
+</td>
+<td width="33%" valign="top">
+
+**▶️ Lecteur interactif**
+Suivi en temps réel des paroles pendant l'écoute.
+
+</td>
+<td width="33%" valign="top">
+
+**📚 Bibliothèque personnelle**
+Historique et progression conservés dans la durée.
+
+</td>
+</tr>
+</table>
+
+### Rivaliser & partager
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🏆 Mode compétition**
+Défi entre utilisateurs sur un même morceau, classement.
+
+</td>
+<td width="33%" valign="top">
+
+**💳 Comptes & abonnements**
+Système de crédits et paiements Stripe intégrés.
+
+</td>
+<td width="33%" valign="top">
+
+**⚡ Traitement multi-utilisateurs**
+Plusieurs personnes traitent leurs fichiers en parallèle.
+
+</td>
+</tr>
+</table>
 
 ## Aperçu de l'application
 
