@@ -6,15 +6,19 @@
 
 ## Liens de vérification
 
-| | |
-| --- | --- |
-| 🌐 Site officiel | [mickoss.com](https://mickoss.com/) |
-| 📦 GitHub Projet | [github.com/mickoss-app/MicKoss](https://github.com/mickoss-app/MicKoss) |
-| 👤 GitHub Profil | [github.com/godson-kossi](https://github.com/godson-kossi) |
+<p align="center">
+  <a href="https://mickoss.com/">
+    <img src="liens-verification.png" alt="MicKoss — liens d'accès et de vérification" width="700">
+  </a>
+</p>
 
-![Liens d'accès et de vérification](liens-verification.png)
+<p align="center">
+  <a href="https://mickoss.com/"><img src="https://img.shields.io/badge/Site_officiel-mickoss.com-13233f?style=for-the-badge&labelColor=13233f&color=b8862c" alt="Site officiel"></a>
+  <a href="https://github.com/mickoss-app/MicKoss"><img src="https://img.shields.io/badge/GitHub-Projet-13233f?style=for-the-badge&logo=github&logoColor=white&labelColor=13233f&color=b8862c" alt="GitHub Projet"></a>
+  <a href="https://github.com/godson-kossi"><img src="https://img.shields.io/badge/GitHub-Profil-13233f?style=for-the-badge&logo=github&logoColor=white&labelColor=13233f&color=b8862c" alt="GitHub Profil"></a>
+</p>
 
-*Version PDF : [liens-acces-verification.pdf](liens-acces-verification.pdf)*
+<p align="center"><em><a href="liens-acces-verification.pdf">Version PDF</a></em></p>
 
 ---
 
