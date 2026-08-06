@@ -12,6 +12,8 @@
 | 📦 GitHub Projet | [github.com/mickoss-app/MicKoss](https://github.com/mickoss-app/MicKoss) |
 | 👤 GitHub Profil | [github.com/godson-kossi](https://github.com/godson-kossi) |
 
+📄 [Document de vérification (PDF)](liens-acces-verification.pdf)
+
 ---
 
 ## Aperçu
