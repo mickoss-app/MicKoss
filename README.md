@@ -6,12 +6,7 @@
 
 ## Liens de vérification
 
-<p align="center">
-<img src="link-header.png" alt="MicKoss — liens d'accès et de vérification" width="700"><br/>
-<a href="https://mickoss.com/"><img src="link-site.png" alt="Site officiel : mickoss.com" width="700"></a><br/>
-<img src="link-mid.png" alt="" width="700"><br/>
-<a href="https://github.com/mickoss-app/MicKoss"><img src="link-github-projet.png" alt="GitHub Projet" width="350"></a><a href="https://github.com/godson-kossi"><img src="link-github-profil.png" alt="GitHub Profil" width="350"></a>
-</p>
+<p align="center"><img src="link-header.png" alt="MicKoss — liens d'accès et de vérification" width="700"><a href="https://mickoss.com/"><img src="link-site.png" alt="Site officiel : mickoss.com" width="700"></a><img src="link-mid.png" alt="" width="700"><a href="https://github.com/mickoss-app/MicKoss"><img src="link-github-projet.png" alt="GitHub Projet" width="350"></a><a href="https://github.com/godson-kossi"><img src="link-github-profil.png" alt="GitHub Profil" width="350"></a></p>
 
 <p align="center"><em><a href="liens-acces-verification.pdf">Version PDF</a></em></p>
 
