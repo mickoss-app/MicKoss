@@ -7,9 +7,7 @@
 ## Liens de vérification
 
 <p align="center">
-  <a href="https://mickoss.com/">
-    <img src="liens-verification.png" alt="MicKoss — liens d'accès et de vérification" width="700">
-  </a>
+  <img src="liens-verification.png" alt="MicKoss — liens d'accès et de vérification" width="700">
 </p>
 
 <p align="center">
