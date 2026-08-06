@@ -4,6 +4,14 @@
 
 > Ce dépôt est une **vitrine** du projet (captures d'écran, fonctionnalités, stack). Le code source est privé — accès sur demande pour les investisseurs, partenaires ou recruteurs intéressés.
 
+## Liens de vérification
+
+| | |
+| --- | --- |
+| 🌐 Site officiel | [mickoss.com](https://mickoss.com/) |
+| 📦 GitHub Projet | [github.com/mickoss-app/MicKoss](https://github.com/mickoss-app/MicKoss) |
+| 👤 GitHub Profil | [github.com/godson-kossi](https://github.com/godson-kossi) |
+
 ---
 
 ## Aperçu
